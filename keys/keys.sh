@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 echo "@Author: Nolan B - 06-2022"
 
 read -p "Enter your Github Email Address: " ghemail
